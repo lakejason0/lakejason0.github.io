@@ -1,3 +1,6 @@
+# Lake桑的存档馆 - GitHub分馆
+这里是GitHub分馆所在的repo。关于本repo使用的主题，请见下方。
+
 ## jekyll-theme-H2O
 
 基于Jekyll的博客主题模板，简洁轻量。
